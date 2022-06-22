@@ -1,0 +1,29 @@
+[
+  {
+    "coverage": "['maths']",
+    "user": "2"
+  },
+  {
+    "email": "admin@gmail.com",
+    "password": "schooleye"
+  },
+  {
+    "email": "pro@education.go.ug",
+    "password": "MOES12345"
+  },
+  {
+    "name": "Kasese SS",
+    "email": "gayazahighschool@gmail.com",
+    "region": "Western",
+    "password": "gayazahighschool12345"
+  },
+  {
+    "first_name": "Akandwaho",
+    "given_name": "Allan",
+    "ID_Number": "57",
+    "combination": "HEG",
+    "score": "76",
+    "DOB": "07/01/2002",
+    "user_id": "18"
+  }
+]
